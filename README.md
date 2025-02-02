@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yashwardhan
 - 👀 I’m interested in AIML
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on ML and Deep Learning
+- 🌱 I’m currently learning and exploring everything
+- 💞️ I’m looking to collaborate on ML and Deep Learning projects
 - 📫 How to reach me drop a message.
 
 <!---
